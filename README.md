@@ -1,0 +1,1 @@
+Welcome! This is a collaboration project between Lorenzo Minjarez and Alejandro Rangel. The following code will display how many articles from a large data base are more liberal/conservative depending on the source. This is a machine learning project that handles large databases and determines how many articles from the given data fall into their respective category
